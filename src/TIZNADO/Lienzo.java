@@ -8,6 +8,7 @@ package TIZNADO;
  *
  * @author Usuario
  */
+import RIVERA.Forma;
 import java.util.ArrayList;
 
 public class Lienzo {
@@ -28,3 +29,4 @@ public class Lienzo {
     public void limpiar() {
         formas.clear();
     }
+}

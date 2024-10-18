@@ -4,6 +4,8 @@
  */
 package TIZNADO;
 
+import java.awt.Color;
+
 /**
  *
  * @author Usuario
